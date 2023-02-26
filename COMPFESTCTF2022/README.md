@@ -24,16 +24,16 @@ Maaf kalau ada challenge yang gaada di writeup, karena probset sudah mematikan s
 
 ## Binary Exploitation
 
-- [Smart Identifier](https://github.com/AlfianReno/CTF-Writeup/tree/master/Binary%20Exploitation/Smart%20Identifier)
+- [Smart Identifier](https://github.com/AlfianReno/CTF-Writeup/tree/master/COMPFESTCTF2022/Binary%20Exploitation/Smart%20Identifier)
 
 ## Forensics
 
-- [Color Palette](https://github.com/AlfianReno/CTF-Writeup/tree/master/Forensics/Color%20Palette)
+- [Color Palette](https://github.com/AlfianReno/CTF-Writeup/tree/master/COMPFESTCTF2022/Forensics/Color%20Palette)
 
-- [c0rR3ct10n](https://github.com/AlfianReno/CTF-Writeup/tree/master/Forensics/c0rR3ct10n)
+- [c0rR3ct10n](https://github.com/AlfianReno/CTF-Writeup/tree/master/COMPFESTCTF2022/Forensics/c0rR3ct10n)
 
 ## OSINT
 
-- [I Forgot Something Important](https://github.com/AlfianReno/CTF-Writeup/tree/master/OSINT/I%20Forgot%20Something%20Important)
+- [I Forgot Something Important](https://github.com/AlfianReno/CTF-Writeup/tree/master/COMPFESTCTF2022/OSINT/I%20Forgot%20Something%20Important)
 
-- [Rookie Mistake](https://github.com/AlfianReno/CTF-Writeup/tree/master/OSINT/Rookie%20Mistake)
+- [Rookie Mistake](https://github.com/AlfianReno/CTF-Writeup/tree/master/COMPFESTCTF2022/OSINT/Rookie%20Mistake)

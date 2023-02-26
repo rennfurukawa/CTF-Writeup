@@ -21,7 +21,7 @@ Rating weight: 24.27
 
 Didalam CTF ini, saya meraih peringkat 417 dari 1282 tim, karena cuman bisa nyelesaiin challenge warmup - easy
 
-![leaderboard](/attachments/leaderboard.png)
+![leaderboard](attachments/leaderboard.png)
 
 Di semua chall pwn/binary exploit, saya menyelesaikannya setelah CTF berakhir, karena gatau cara patch libc & loader nya
 
@@ -30,26 +30,26 @@ anyway, enjoy.
 
 ## Binary Exploitation
 
-- [random](https://github.com/AlfianReno/CTF-Writeup/tree/main/Binary%20Exploitation/random)
+- [random](https://github.com/AlfianReno/CTF-Writeup/tree/master/TFCCTF2022/Binary%20Exploitation/random)
 
-- [winner](https://github.com/AlfianReno/CTF-Writeup/tree/main/Binary%20Exploitation/winner)
+- [winner](https://github.com/AlfianReno/CTF-Writeup/tree/master/TFCCTF2022/Binary%20Exploitation/winner)
 
 ## Cryptography
 
-- [MAFIOSO](https://github.com/AlfianReno/CTF-Writeup/tree/main/Cryptography/MAFIOSO)
+- [MAFIOSO](https://github.com/AlfianReno/CTF-Writeup/tree/master/TFCCTF2022/Cryptography/MAFIOSO)
 
-- [OBSCURE](https://github.com/AlfianReno/CTF-Writeup/tree/main/Cryptography/OBSCURE)
+- [OBSCURE](https://github.com/AlfianReno/CTF-Writeup/tree/master/TFCCTF2022/Cryptography/OBSCURE)
 
 ## Forensics
 
-- [BBBBBBBBBB](https://github.com/AlfianReno/CTF-Writeup/tree/main/Forensics/BBBBBBBBBB)
+- [BBBBBBBBBB](https://github.com/AlfianReno/CTF-Writeup/tree/master/TFCCTF2022/Forensics/BBBBBBBBBB)
 
 ## Reverse Engineering
 
-- [source](https://github.com/AlfianReno/CTF-Writeup/tree/main/Reverse%20Engineering/source)
+- [source](https://github.com/AlfianReno/CTF-Writeup/tree/master/TFCCTF2022/Reverse%20Engineering/source)
 
 ## Web Exploitation
 
-- [Are You The Admin](https://github.com/AlfianReno/CTF-Writeup/tree/main/Web%20Exploitation/Are%20You%20The%20Admin)
+- [Are You The Admin](https://github.com/AlfianReno/CTF-Writeup/tree/master/TFCCTF2022/Web%20Exploitation/Are%20You%20The%20Admin)
 
-- [Deeplinks](https://github.com/AlfianReno/CTF-Writeup/tree/main/Web%20Exploitation/Deeplinks)
+- [Deeplinks](https://github.com/AlfianReno/CTF-Writeup/tree/master/TFCCTF2022/Web%20Exploitation/Deeplinks)
