@@ -10,11 +10,11 @@ If you want to try some of this challenges by yourself, feel free to check this 
 
 ## Cryptography
 
-- [credstuff](https://github.com/AlfianReno/CTF-Writeup/tree/master/PicoCTF%202022/Cryptography/credstuff)
+- [credstuff](/PicoCTF%202022/Cryptography/credstuff/)
 ## Forensics
 
-- [Enhance!](https://github.com/AlfianReno/CTF-Writeup/tree/master/PicoCTF%202022/Forensics/Enhance!)
-- [Lookey Here](https://github.com/AlfianReno/CTF-Writeup/tree/master/PicoCTF%202022/Forensics/Lookey_Here)
+- [Enhance!](/PicoCTF%202022/Forensics/Enhance!/)
+- [Lookey Here](/PicoCTF%202022/Forensics/Lookey_Here/)
 
 
 
